@@ -1,4 +1,4 @@
 # PyWeather
 Weather check program using Openweather-API for Windows
 
-!!! You have to access using your location for programs in Windows settings !!!
+!!! You have to access programs using your location in Windows settings !!!
