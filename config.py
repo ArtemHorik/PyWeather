@@ -1,5 +1,7 @@
 USE_ROUNDED_COORDS = False
-OPENWEATHER_API = "0ba2f56a45773a104b59864880778ec2"
+SAVE_TO_TXT = True
+SAVE_TO_JSON = False
+OPENWEATHER_API = "ENTER YOR API HERE"
 OPENWEATHER_URL = (
         "https://api.openweathermap.org/data/2.5/weather?"
         "lat={latitude}&lon={longitude}&appid="
