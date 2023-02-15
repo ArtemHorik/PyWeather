@@ -3,6 +3,6 @@
 
 Weather check program using Openweather-API for Windows
 
-Enter your openweather API in config.py file!
+SETUP: Enter your openweather API in config.py file and run weather.py
 
 !!! You have to access programs using your location in Windows settings !!!
